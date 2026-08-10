@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bonus-200-procentov.github.io
+Sitemap: https://bonus-200-procentov.github.io/sitemap.xml
